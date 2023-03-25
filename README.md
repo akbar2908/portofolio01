@@ -14,6 +14,6 @@ Membuat Desain Sistem Informasi Untuk Perusahaan dan Instansi. Menggunakan HTML 
 <img src="https://user-images.githubusercontent.com/58007019/91711645-0e13d500-eb3b-11ea-8764-88c9edcb7339.PNG" > <img src="https://user-images.githubusercontent.com/58007019/91711707-33084800-eb3b-11ea-9279-aa72f1d1071f.PNG" >
 
 ### Whatsapp
-http://tiny.cc/w3sqsz
+https://api.whatsapp.com/send?phone=6281377510140
 ### Instagram  
-http://tiny.cc/14sqsz
+https://www.instagram.com/akbar.agstn/
